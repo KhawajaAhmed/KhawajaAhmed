@@ -11,7 +11,7 @@
 
 - My most recent project is [Real Time Speech Assistant with llama3](https://github.com/KhawajaAhmed/ai_assistant)
 
-- 👨‍💻 All of my projects are available at [khawajaahmed.github.io](khawajaahmed.github.io)
+- 👨‍💻 My Website Portfolio [khawajaahmed.github.io](khawajaahmed.github.io)
 
 - 📫 How to reach me **khawajaahmed_2025@depuw.edu**
 
