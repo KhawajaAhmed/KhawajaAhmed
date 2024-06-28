@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khawajaahmed" alt="khawajaahmed" /></a> </p>
 
-- 🔭 My current project is [Customer Segmentation Analysis with RFM & K-Means Clustering](https://github.com/KhawajaAhmed/customer_segmentation_analysis)
+- 🔭 Current project [Customer Segmentation Analysis with RFM & K-Means Clustering](https://github.com/KhawajaAhmed/customer_segmentation_analysis)
 
 - 🌱 I’m currently learning **ML, MySQL & PowerBI**
 
-- My most recent project is [Real Time Speech Assistant with llama3](https://github.com/KhawajaAhmed/ai_assistant)
+- Most recent project [Real Time Speech Assistant with llama3](https://github.com/KhawajaAhmed/ai_assistant)
 
-- 👨‍💻 My Website Portfolio [khawajaahmed.github.io](khawajaahmed.github.io)
+- 👨‍💻 Website Portfolio [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
 
-- 📫 How to reach me **khawajaahmed_2025@depuw.edu**
+- 📫 Email **khawajaahmed_2025@depuw.edu**
 
-- 📄 Know about my experiences [https://khawajaahmed.github.io/assets/KhawajaAhmed_Resume.pdf](https://khawajaahmed.github.io/assets/KhawajaAhmed_Resume.pdf)
+- 📄 Experience [Resume](https://khawajaahmed.github.io/assets/Resume_Feedback.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
