@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khawaja Hussain Ahmed</h1>
-<h3 align="center">Passionate Data Analyst|Student|Learner</h3>
+<h3 align="center"> Student | Data Science Enthusiast | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khawajaahmed" alt="khawajaahmed" /></a> </p>
 
-- 🔭 Current project [Agricultural Data Collector-A Data Science Project](https://github.com/KhawajaAhmed/fertilizer_data_collector)
+- 🔭 Current project [Agricultural Data Collector](https://github.com/KhawajaAhmed/fertilizer_data_collector)
 
 - 🌱 I’m currently learning **ML, MySQL & PowerBI**
 
