@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khawajaahmed" alt="khawajaahmed" /></a> </p>
 
-- 🔭 Current project [Customer Segmentation Analysis with RFM & K-Means Clustering](https://github.com/KhawajaAhmed/customer_segmentation_analysis)
+- 🔭 Current project [Agricultural Data Collector-A Data Science Project](https://github.com/KhawajaAhmed/fertilizer_data_collector)
 
 - 🌱 I’m currently learning **ML, MySQL & PowerBI**
 
