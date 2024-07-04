@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
 
-- 🔭 Current project [Agricultural Data Collector](https://github.com/KhawajaAhmed/fertilizer_data_collector)
+- Current project [Agricultural Data Collector](https://github.com/KhawajaAhmed/fertilizer_data_collector)
 
-- 🌱 I’m currently learning **ML, MySQL & PowerBI**
+- I’m currently learning **ML, MySQL & PowerBI**
 
 - Most recent project [Real Time Speech Assistant with llama3](https://github.com/KhawajaAhmed/ai_assistant)
 
-- 👨‍💻 Website Portfolio [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
+- Website Portfolio [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
 
-- 📫 Email **khawajaahmed_2025@depuw.edu**
+- Email **khawajaahmed_2025@depuw.edu**
 
-- 📄 Experience [Resume](https://khawajaahmed.github.io/assets/Resume_Feedback.pdf)
+- Experience [Resume](https://khawajaahmed.github.io/assets/Resume_Feedback.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
