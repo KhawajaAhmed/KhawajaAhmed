@@ -14,7 +14,7 @@
 
 - Email: **khawajaahmed_2025@depuw.edu**
 
-- Experiences: [Resume](https://khawajaahmed.github.io/assets/Resume_Feedback.pdf)
+- Experiences: [Resume](https://khawajaahmed.github.io/assets/resume_khawaja_new.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
