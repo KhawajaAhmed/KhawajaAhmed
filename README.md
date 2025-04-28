@@ -8,7 +8,7 @@
 
 - I’m currently learning **ML, MySQL & PowerBI**
 
-- Most recent project: [Real Time Speech Assistant with llama3](https://github.com/KhawajaAhmed/ai_assistant)
+- Most recent project: [Agricultural Data Pipeline](https://github.com/KhawajaAhmed/Agtech-Agricultural-Data-Pipeline)
 
 - Website Portfolio: [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
 
