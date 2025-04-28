@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
 
-- Current project: [Agricultural Data Collector](https://github.com/KhawajaAhmed/fertilizer_data_collector)
+- Current project: [Time Series Transportation Data Analysis](https://transportationtimeseriesdatadashboard.netlify.app/)
 
 - I’m currently learning **ML, MySQL & PowerBI**
 
@@ -14,7 +14,7 @@
 
 - Email: **khawajaahmed_2025@depuw.edu**
 
-- Experiences: [Resume](https://khawajaahmed.github.io/assets/resume_khawaja_new.pdf)
+- Experiences: Data Engineering Intern | AI/ML Engineering Intern | Data Science Intern
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
