@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
 
-- Current project: [Time Series Transportation Data Analysis](https://transportationtimeseriesdatadashboard.netlify.app/)
+- Current project: [Healthcare RCM Optimization Analysis](https://healthcarercmoptimizationanalysis.netlify.app/)
 
 - I’m currently learning **ML, MySQL & PowerBI**
 
-- Most recent project: [Agricultural Data Pipeline](https://github.com/KhawajaAhmed/Agtech-Agricultural-Data-Pipeline)
-
+- Most recent project: [Time Series Transportation Data Analysis](https://transportationtimeseriesdatadashboard.netlify.app/)
+  
 - Website Portfolio: [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
 
 - Email: **khawajaahmed_2025@depuw.edu**
