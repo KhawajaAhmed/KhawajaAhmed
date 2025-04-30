@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Khawaja Hussain Ahmed</h1>
-<h3 align="center"> Student | Data Science Enthusiast | Learner</h3>
+<h3 align="center"> Data Scientist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
