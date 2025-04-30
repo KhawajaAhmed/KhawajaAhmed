@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I am Khawaja Hussain Ahmed</h1>
-<h3 align="center"> Data Scientist
+<h3 align="center"> Student | Data Science Enthusiast | Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
@@ -27,4 +28,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khawajaahmed" alt="khawajaahmed" width = "400" style="vertical-align: middle;"/>
 </p>
-
