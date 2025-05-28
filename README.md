@@ -13,8 +13,6 @@
   
 - Website Portfolio: [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
 
-- Email: **khawajaahmed_2025@depuw.edu**
-
 - Experiences: Data Engineering Intern | AI/ML Engineering Intern | Data Science Intern
 
 <h3 align="left">Connect with me:</h3>
