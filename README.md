@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khawajaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="khawajaahmed" /> </p>
 
 
-- Current project: [Lyft Driver Supply Optimization](https://lyftdriveroptimizationanalysis.netlify.app/implementation-plan)
+- Current project: [Lyft Driver Supply Optimization](https://lyftdriveroptimizationanalysis.netlify.app/)
 
 - Most recent project: [Healthcare RCM Optimization Analysis](https://healthcarercmoptimizationanalysis.netlify.app/)
   
