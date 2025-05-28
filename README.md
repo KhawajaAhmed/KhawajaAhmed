@@ -7,8 +7,6 @@
 
 - Current project: [Healthcare RCM Optimization Analysis](https://healthcarercmoptimizationanalysis.netlify.app/)
 
-- I’m currently learning **ML, MySQL & PowerBI**
-
 - Most recent project: [Time Series Transportation Data Analysis](https://transportationtimeseriesdatadashboard.netlify.app/)
   
 - Website Portfolio: [https://khawajaahmed.github.io](https://khawajaahmed.github.io)
